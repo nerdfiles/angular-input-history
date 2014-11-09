@@ -13,3 +13,7 @@ makes use of the memento design pattern.
         search: true
       }"
     />
+
+## TODO
+
+1. Use http://harvesthq.github.io/chosen/ to reveal input history data.
